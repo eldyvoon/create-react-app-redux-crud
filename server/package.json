@@ -1,0 +1,18 @@
+{
+  "name": "Node simple API starter with mongodb",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.13.2",
+    "cors": "^2.8.4",
+    "express": "~4.13.1",
+    "mongoose": "^4.10.8",
+    "morgan": "~1.6.1",
+    "pug": "^2.0.0-rc.3",
+    "random-int": "^1.0.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "devDependencies": {}
+}
